@@ -1,0 +1,22 @@
+sublime merupakan sebuah software text editor yang digunakan oleh programmer untuk membuat aplikasi. misalnya kita mau membuat aplikasi berbasis web maka yang butuhkan sebuah text editor untuk mengedit kode. langsung saja untuk cara menginstal sublime maka ikuti langkah-langkah sebagai berikut :
+
+1. step 1 download terlebih dahulu file .exe di situs resminya sublime di sini https://www.sublimetext.com/3
+2. setelah download selesai maka double klik file .exe pada hasil download tadi
+3. kemudian klik next
+4. kemudian klik next
+5. kemudian klik next
+7. kemudian tunggu sampai proses install selesai
+8. setalah proses instal selesai kemudian bukan pada di menu windows 10 seperti gambar dibawah ini
+9. sublime siap untuk membuat aplikasi
+
+How to install Sublime Text in the Windows 10
+sublime is a text editor software that is used by programmers to create applications. for example we want to make a web-based application then you need a text editor to edit the code. just go ahead for installing sublime then follow the steps as follows:
+
+1. Step 1, first download the .exe file on the official website, sublime here https://www.sublimetext.com/3
+2. after the download is complete then double click the .exe file on the download earlier
+3. then click next
+4. then click next
+5. then click next
+7. then wait until the install process is complete
+8. after the install process is complete then not on the Windows 10 menu as shown below
+9. Sublime is ready to make an application

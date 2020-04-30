@@ -1,0 +1,11 @@
+COVER
+
+1. Tipe Soal
+2. Studi Kasus
+3. Flow Chart
+4. Source Code
+5. Capture Screen u/ Semua Kemungkinan
+
+File Zip : Laporan pdf, code.java
+
+T1 : File Zip => SC & Flow Chart (Absen_Nama)
